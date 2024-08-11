@@ -1,6 +1,6 @@
 # Natours
 
-**Natours** is a nature tour organizer website that helps people book tours to beautiful places deeply connected to nature and adventure. This project is part of my web development journey, where I explore and implement various web development technologies.
+**Natours** is a nature tour organizer website that helps people book tours to beautiful places deeply connected to nature and adventure. This project is part of my web development journey, where I explore and implement various web development technologies. check out the website by clicking [here](https://natours-zeta-seven.vercel.app/).
 
 ## Tech Stack
 
